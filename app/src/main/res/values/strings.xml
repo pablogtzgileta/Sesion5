@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+    <string-array name="scolarship">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
